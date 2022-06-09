@@ -18,19 +18,18 @@ I set myself the goal of studying html, css, java-scritp and becoming a front-en
 * **CSS3**
 * **Git/Github**
 
-
 ### Code example:
 ```
 function multiply(a, b){
   a * b
 }
 ```
-### Courses
+### Courses:
 * **Udemy:** Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann (in progress)
 * **RS Schools:** Course «JavaScript/Front-end. Stage 0» (in progress)
 * **Go IT:** HTML/CSS DEMO
 
-### Projects
+### Projects:
 [Simple site](https://stelmakhm.github.io/homework/)
 
 ### Languages:
