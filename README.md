@@ -30,6 +30,9 @@ function multiply(a, b){
 * **RS Schools:** Course «JavaScript/Front-end. Stage 0» (in progress)
 * **Go IT:** HTML/CSS DEMO
 
+### Projects
+[Simple site](https://stelmakhm.github.io/homework/)
+
 ### Languages:
 * **English** – Intermediate
 * **Ukrainain** – Native 
